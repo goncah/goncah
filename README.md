@@ -1,21 +1,20 @@
 <div align="center">
     <h2>🛈 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a Software Engineer, specializing in distributed systems and real-time stream processing. <br>
-    I hold a Bachelor's degree in Computer Science and am currently pursuing a Master's degree in Computer Science and Web Technology, both at <a href="https://uab.pt">Universidade Aberta</a>. <br>
-<a href="https://github.com/goncah/cv/blob/main/out/cv.pdf">Here's</a> my CV.</p>
+    I hold a Bachelor's degree in Computer Science and am currently pursuing a Master's degree in Computer Science and Web Technology, both at <a target="_blank" href="https://uab.pt">Universidade Aberta</a>. <br>
+<a target="_blank" href="https://github.com/goncah/cv/blob/main/out/cv.pdf">Here's</a> my CV.</p>
 </div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/goncalh">
+  <a target="_blank" href="https://www.linkedin.com/in/goncalh">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-    <a href="https://orcid.org/0009-0007-5803-4499">
+  <a target="_blank" href="https://orcid.org/0009-0007-5803-4499">
     <img src="https://img.shields.io/badge/ORCiD-FFFFFF?style=for-the-badge&logo=orcid&logoColor=green" alt="ORCiD"/>
   </a>
-    <a href="mailto:email@hugogoncalves.pt">
+  <a target="_blank" href="mailto:email@hugogoncalves.pt">
     <img src="https://img.shields.io/badge/email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" alt="E-mail"/>
   </a>
 </div>
