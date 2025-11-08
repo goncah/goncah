@@ -13,7 +13,7 @@
   <a target="_blank" href="https://orcid.org/0009-0007-5803-4499">
     <img src="https://img.shields.io/badge/ORCiD-FFFFFF?style=for-the-badge&logo=orcid&logoColor=green" alt="ORCiD"/>
   </a>
-  <a target="_blank" href="mailto:email@hugogoncalves.pt">
+  <a target="_blank" href="mailto:hfdsgoncalves@gmail.com">
     <img src="https://img.shields.io/badge/email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" alt="E-mail"/>
   </a>
 </div>
