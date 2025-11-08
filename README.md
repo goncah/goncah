@@ -2,7 +2,6 @@
     <h2>🛈 About Me</h2>
     <p>I'm a Software Engineer, specializing in distributed systems and real-time stream processing. <br>
     I hold a Bachelor's degree in Computer Science and am currently pursuing a Master's degree in Computer Science and Web Technology, both at <a target="_blank" href="https://uab.pt">Universidade Aberta</a>. <br>
-<a target="_blank" href="https://github.com/goncah/cv/blob/main/out/cv.pdf">Here's</a> my CV.</p>
 </div>
 
 <div align="center">
